@@ -59,7 +59,12 @@ Once the SageMaker Studio IDE has fully loaded in your browser, you can clone th
 </p>
 
 * By default, the terminal launches at the root of the SageMaker Studio IDE workspace.
-* Next, clone this repository using `git clone https://github.com/aws-samples/amazon-fraud-detector-end-to-end.git afd-end-to-end` (replace <repo_url> with this repository's URL)
+* Next, clone this repository using 
+
+```  
+git clone https://github.com/aws-samples/amazon-fraud-detector-end-to-end.git afd-end-to-end` 
+```
+
 <p align="center">
   <img src="./images/sm2.png" alt="sm2"/>
 </p>
