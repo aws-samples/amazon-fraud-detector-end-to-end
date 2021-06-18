@@ -22,7 +22,7 @@ In this sample we will demonstrate how to operationalize Amazon Fraud Detector u
 
 In order to be able to execute all the Jupyter Notebooks in this sample, we will first need to create a SageMaker Studio domain. The CloudFormation template to create the SageMaker Studio domain and all the related resources, such as IAM Roles, S3 Bucket etc. is included under the `/dist` directory. Follow the steps below to create the CloudFormation stack using the `sm-studio-cf.yaml` file.
 
-> :warning: Your AWS account **must have a default VPC** for this CloudFormation template to work
+> :warning: Your AWS account **must have a default VPC** for this CloudFormation template to work.
 > Your AWS account may also incur some nominal charges for SageMaker Studio domain. Amazon SageMaker is free to try as part of [AWS Free Tier](https://aws.amazon.com/free/). For pricing details of SageMaker Studio refer the [Amazon SageMaker pricing page](https://aws.amazon.com/sagemaker/pricing/).
 
 * Navigate to AWS Console
