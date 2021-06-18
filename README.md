@@ -62,7 +62,7 @@ Once the SageMaker Studio IDE has fully loaded in your browser, you can clone th
 * Next, clone this repository using 
 
 ```  
-git clone https://github.com/aws-samples/amazon-fraud-detector-end-to-end.git afd-end-to-end` 
+git clone https://github.com/aws-samples/amazon-fraud-detector-end-to-end.git afd-end-to-end
 ```
 
 <p align="center">
