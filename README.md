@@ -26,7 +26,7 @@ In order to be able to execute all the Jupyter Notebooks in this sample, we will
 > Your AWS account may also incur some nominal charges for SageMaker Studio domain. Amazon SageMaker is free to try as part of [AWS Free Tier](https://aws.amazon.com/free/). For pricing details of SageMaker Studio refer the [Amazon SageMaker pricing page](https://aws.amazon.com/sagemaker/pricing/). Your AWS account may will also incur Amazon Fraud Detector charges. Amazon Fraud Detector  is free to use for the first 2 months after you sign-up, see [pricing page](https://aws.amazon.com/fraud-detector/pricing/) for more details.
 
 * Navigate to AWS Console
-* Search for CloudFormation in the Services search bar
+* Search for CloudFormation in the "Services" search bar
 * Once in the CloudFormation console, click on the "Create Stack" button (use the "With new resources option")
 * In the "Create Stack" wizard, chose "Template is ready", then select "Upload a template file"
 <p align="center">
