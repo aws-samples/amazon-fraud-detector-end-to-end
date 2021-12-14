@@ -416,6 +416,10 @@ Resources:
                 - !Split
                   - "/"
                   - !Ref "AWS::StackId"
+      BucketEncryption: 
+        ServerSideEncryptionConfiguration: 
+        - ServerSideEncryptionByDefault:
+            SSEAlgorithm: AES256
 
 ### Roles for Sagemaker projects
   AmazonSageMakerServiceCatalogProductsLaunchRole:
